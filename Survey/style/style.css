@@ -1,0 +1,12 @@
+/*************
+Des Marks
+Web Dev - CPTS 483
+Adam Carter
+
+Homework #2
+2/1/2016
+**************/
+
+@import url('desktop.css') (min-width:781px);
+@import url('tablet.css') (max-width:780px) and (min-width:481px);
+@import url('mobile.css') (max-width:480px);
